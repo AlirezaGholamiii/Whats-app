@@ -1,8 +1,9 @@
 # Whats-app
 ### `This is a web version of WhatsApp created by ReactJS and it hosts by firebase. Also, the app uses Google Authentication to allow users to get into the app. `
 ## Deployed version : https://whats-app-5005a.web.app
-![Here is the Image](https://i.imgur.com/uPgwNH3.png) \
-
+## Google Authentication Login
+![Here is the Image](https://i.imgur.com/uPgwNH3.png) 
+## WhatsApp Web App
 ![Here is the Image](https://i.imgur.com/lHWNrtS.png) \
 👉 Developed By Alireza Gholami
 # Getting Started with Create React App
