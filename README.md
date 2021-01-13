@@ -1,8 +1,10 @@
 # Whats-app
-### `This is a web version of WhatsApp created by ReactJS and it hosts by firebase.`
-## Deployed version : https://tiktok-clone-5ccc4.web.app/
-![Here is the Image](https://i.imgur.com/uPgwNH3.png)
-👉 developed By Alireza Gholami
+### `This is a web version of WhatsApp created by ReactJS and it hosts by firebase. Also, the app uses Google Authentication to allow users to get into the app. `
+## Deployed version : https://whats-app-5005a.web.app
+![Here is the Image](https://i.imgur.com/uPgwNH3.png) \
+
+![Here is the Image](https://i.imgur.com/lHWNrtS.png) \
+👉 Developed By Alireza Gholami
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
